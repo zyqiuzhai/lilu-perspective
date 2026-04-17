@@ -35,7 +35,7 @@ cp SKILL.md ~/.claude/skills/lilu-perspective/
 Or clone the whole repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/lilu-perspective.git ~/.claude/skills/lilu-perspective
+git clone https://github.com/zyqiuzhai/lilu-perspective.git ~/.claude/skills/lilu-perspective
 ```
 
 ## How to use
